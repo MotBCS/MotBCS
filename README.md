@@ -5,8 +5,8 @@ I am currently working towards my Bachelor of Science in Computer Science, with 
 
 
 
-- ❤️ At the moment I am learning Python and C++
-- ❤️ Ask me about anything :)
-- ❤️ How to reach me: mdion.mot@gmail.com
-- ❤️ Pronouns: She/Her
+- ✨ At the moment I am learning Python and C++
+- ✨ Ask me about anything :)
+- ✨ How to reach me: mdion.mot@gmail.com
+- ✨ Pronouns: She/Her
 
