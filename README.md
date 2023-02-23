@@ -5,7 +5,7 @@ Im a graduate from Full Sail University with a Bachelor of Science in Computer A
 I am currently working towards my Bachelor of Science in Computer Science
 
 
-- ✨ At the moment I am learning Python and C++
+- ✨ At the moment I am learning Java and Python
 - ✨ Ask me about anything :)
 - ✨ How to reach me: mdion.mot@gmail.com
 - ✨ Pronouns: She/Her
