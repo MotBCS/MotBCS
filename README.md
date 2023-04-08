@@ -8,5 +8,4 @@ I am currently working towards my Bachelor of Science in Computer Science
 - ✨ At the moment I am learning Java, Python and a little bit of C++ here and there.
 - ✨ Ask me about anything :)
 - ✨ How to reach me: mdion.mot@gmail.com
-- ✨ Pronouns: She/Her
 
