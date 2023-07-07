@@ -1,11 +1,8 @@
 ### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Heya!
 
-Im a graduate from Full Sail University with a Bachelor of Science in Computer Animation. I specialize in creating 3D character models and props. I primarily work with Autodesk Maya, Zbrush, Substance Painter and the Creative Cloud Suite.
+Enthusiastic, self-driven, and detailed oriented computer science student, with an appetite for knowledge. Experience in developing user-friendly software applications, coding, and testing features. Practice in multiple programming languages and software development tools, excellent problem-solving skills, and the ability to perform well in a collaborative team environment. Eager to obtain a challenging position that will expand my learning and build upon my developer skills.
 
-I am currently working towards my Bachelor of Science in Computer Science
-
-
-- ✨ At the moment I am learning Java, Python and a little bit of C++ here and there.
+- ✨ At the moment I am learning Java, Python, and a little bit of C++ here and there.
 - ✨ Ask me about anything :)
 - ✨ How to reach me: mdion.mot@gmail.com
 
