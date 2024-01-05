@@ -6,4 +6,5 @@ I'm an enthusiastic, self-driven, and detailed oriented computer science student
 - ✨ Ask me about anything :)
 - ✨ How to reach me: mdion.mot@gmail.com
 
-![Dogs](https://github.com/MotBCS/MotBCS/assets/82474687/f0580e12-f742-4129-a57c-c85283bdd7bd)
+
+![Dogs-export](https://github.com/MotBCS/MotBCS/assets/82474687/9fb33fcf-edfb-4d5b-996a-a9774079ac24)
