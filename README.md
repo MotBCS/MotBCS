@@ -4,7 +4,7 @@ I'm an enthusiastic, self-driven, and detailed oriented developer, with an appet
 
 - ✨ At the moment I am learning Java, Python, and a little bit of C++ here and there.
 - ✨ Ask me about anything :)
-- ✨ How to reach me: mdion.mot@gmail.com
+- ✨ How to reach me: mdion.dev@gmail.com
 
 
 ![Dogs-export](https://github.com/MotBCS/MotBCS/assets/82474687/9fb33fcf-edfb-4d5b-996a-a9774079ac24)
