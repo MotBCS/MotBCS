@@ -8,4 +8,3 @@ Portfolio Website: https://motbcs.github.io/
 
 
 ![Dogs-export](https://github.com/MotBCS/MotBCS/assets/82474687/9fb33fcf-edfb-4d5b-996a-a9774079ac24)
-![background_4](https://github.com/user-attachments/assets/2334f6db-b35b-45f7-89cd-7746cef2bc05)
